@@ -1,0 +1,8 @@
+{
+  "name": "مساعد خدمة العملاء الذكي | Dynamic Customer Service AI",
+  "description": "منصة تفاعلية متطورة لإدارة واختبار مساعد خدمة العملاء الذكي للرد على الإشارات والرسائل الخاصة مع فحص صارم لقاعدة المعرفة وحدود المنصات وتحديد التحويل البشري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
